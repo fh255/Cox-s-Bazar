@@ -1,3 +1,52 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+}
+
+/* Heading desgn*/
+h1 {
+    font-family: 'Tinos', serif;
+    text-transform: uppercase;
+    color: black;
+}
+
+#logo{
+    float: left;
+    font-size: 36px;
+    line-height: 70px;
+}
+
+/* Navigation design*/
+
+#menu{
+    font-size: 120%;
+    line-height: 70px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    display: inline-block; /* Display list items horizontally */
+    margin-right: 20px;
+}
+
+#menu a{
+    text-decoration: none;
+    color: black;
+    border-radius: 5px; /* Add rounded corners to links */
+    padding: 10px;
+}
+
+#menu a:hover{
+    background-color: rgba(24, 117, 117, 0.8);
+    color: #fff; 
 }
