@@ -12,7 +12,7 @@ body {
     color: rgb(0, 0, 0);
 }
 
-/* Heading desgn*/
+/* Heading design */
 h1 {
     font-family: 'Tinos', serif;
     text-transform: uppercase;
@@ -23,18 +23,17 @@ h1 {
     float: left;
     font-size: 36px;
     line-height: 70px;
+    margin-left: 30px;
 }
 
-/* Navigation design*/
-
+/* Navigation design */
 #menu {
     font-size: 120%;
     line-height: 70px;
+    text-align: right;
 }
 
 #menu li {
-    float: right;
-    list-style-type: none;
     display: inline-block;
     margin-right: 20px;
 }
@@ -51,13 +50,11 @@ h1 {
     color: #fff;
 }
 
-/* Main Image in the home page*/
-
+/* Main Image in the home page */
 #main-image {
     height: 600px;
     width: 100%;
     background: url('../images/main-image.webp') no-repeat center center;
-    /*Animation zoom effect*/
     animation-name: main-zoom;
     animation-duration: 7s;
     animation-fill-mode: backwards;
@@ -69,8 +66,7 @@ h1 {
     overflow: hidden;
 }
 
-/*Animation of the image*/
-
+/* Animation of the image */
 @keyframes main-zoom {
     from {
         transform: scale(1.1);
@@ -80,23 +76,24 @@ h1 {
     }
 }
 
-/*description about Cox's Bazar*/
+/* Description about Cox's Bazar */
 #home {
     font-family: Oswald, sans-serif;
-    margin: 0 30px;
+    margin: 0 20px;
     text-align: justify;
     color: #3a3a3a;
     padding-bottom: 20px;
 }
 
-/*Footer*/
+/* Footer */
 footer {
     height: 40px;
     margin: 20px;
+    text-align: center;
 }
 
 #social-networks {
-    text-align: center;
+    display: inline-block;
 }
 
 #social-networks>li {
@@ -121,26 +118,22 @@ footer {
 /* Media Queries */
 @media screen and (max-width: 1200px) {
     #menu {
-        float: none;
         text-align: center;
     }
 
     #menu li {
-        float: none;
         display: block;
-        margin: 0;
+        margin: 10px 0;
     }
 
     #logo {
         float: none;
-        width: 100%;
+        margin: 10px;
+        text-align: center;
     }
 
     footer {
-        clear: both;
         width: 100%;
-        line-height: 25px;
-        margin-bottom: 0;
     }
 }
 
@@ -150,7 +143,7 @@ footer {
     }
 
     #home {
-        height: auto;
+        padding: 20px;
     }
 }
 
@@ -158,18 +151,10 @@ footer {
     #logo {
         font-size: 100%;
     }
-
-    #home {
-        margin: 0 20px;
-    }
 }
 
 @media screen and (max-width: 500px) {
-    #about {
-        height: auto;
-    }
-
-    #about>h2 {
+    #home>h2 {
         font-size: 20px;
     }
 }
