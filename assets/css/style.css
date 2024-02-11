@@ -47,6 +47,38 @@ h1 {
 }
 
 #menu a:hover{
-    background-color: rgba(24, 117, 117, 0.8);
+    background-color: rgba(22, 161, 235, 0.8);
     color: #fff; 
 }
+
+/* Main Image in the  home page*/
+
+#main-image {
+height: 600px;
+width: 100%;
+background: url('../images/main-image.webp') no-repeat center center;
+ 
+/*Animation zoom effect*/
+
+animation-name: main-zoom;
+    animation-duration: 7s;
+    animation-fill-mode: backword;
+}
+
+#image-outer {
+height: 600px;
+width: 100%;
+overflow: hidden;
+}
+
+/*Animation*/
+
+@keyframes main-zoom {
+    from{
+        transform: scale(1.1);
+    }
+    to{
+        transform: scale(1);
+    }
+}
+
