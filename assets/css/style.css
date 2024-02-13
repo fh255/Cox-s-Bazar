@@ -47,6 +47,7 @@ h1 {
     color: black;
     border-radius: 5px;
     padding: 10px;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
 #menu a:hover {
@@ -54,40 +55,44 @@ h1 {
     color: #fff;
 }
 
-/* Main Image in the home page styles */
 #main-image {
     height: 600px;
     width: 100%;
     background: url('../images/main-image.webp') no-repeat center center;
-    animation-name: main-zoom;
-    animation-duration: 7s;
-    animation-fill-mode: backwards;
+    background-size: cover;
+    position: relative;
 }
 
-#image-outer {
-    height: 600px;
+#main-image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    overflow: hidden;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.062);
 }
 
-/* Animation of the main image */
-@keyframes main-zoom {
-    from {
-        transform: scale(1.1);
-    }
-    to {
-        transform: scale(1);
-    }
-}
 
 /* Description about Cox's Bazar styles */
 #home {
-    font-family: Oswald, sans-serif;
-    margin: 0 20px;
+    font-family: 'Oswald', sans-serif;
+    margin: 20px;
     text-align: justify;
     color: #3a3a3a;
     padding-bottom: 20px;
+    line-height: 1.6;
 }
+
+#home h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+#home p {
+    font-size: 18px;
+}
+
 
 /* Footer styles */
 footer {
@@ -105,10 +110,11 @@ footer {
 }
 
 #social-networks i {
-    font-size: 150%;
-    margin: 5%;
-    padding: 2%;
+    font-size: 24px;
+    margin: 10px;
+    padding: 5px;
     color: #3a3a3a;
+    transition: color 0.3s ease-in-out;
 }
 #social-networks i:hover {
     color: #0091ff; 
