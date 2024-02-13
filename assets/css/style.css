@@ -115,6 +115,21 @@ footer {
     line-height: 20px;
 }
 
+
+/* Photo Gallery Styles */
+
+#photos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Set the grid to three columns */
+    gap: 0; /* Set the gap to 0 to remove the gap between columns */
+    margin: 20px;
+}
+
+#photos img {
+    width: 100%;
+    height: auto;
+}
+
 /* Media Queries */
 @media screen and (max-width: 1200px) {
     #menu {
@@ -135,6 +150,9 @@ footer {
     footer {
         width: 100%;
     }
+    #photos {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
 }
 
 @media screen and (max-width: 950px) {
@@ -151,10 +169,28 @@ footer {
     #logo {
         font-size: 100%;
     }
+    #photos {
+        column-count: 2;
+    }
 }
 
 @media screen and (max-width: 500px) {
     #home>h2 {
         font-size: 20px;
+    }
+    #photos {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+}
+/* Ensure each row has 3 photos on smaller screens */
+@media screen and (max-width: 400px) {
+    #photos {
+        grid-template-columns: repeat(2, 1fr); /* Adjust the columns for smaller screens */
+    }
+}
+
+@media screen and (max-width: 300px) {
+    #photos {
+        grid-template-columns: 1fr; /* Adjust the columns for even smaller screens */
     }
 }
