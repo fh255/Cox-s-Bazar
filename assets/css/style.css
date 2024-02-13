@@ -99,14 +99,21 @@ footer {
     height: 40px;
     margin: 20px;
     text-align: center;
+    
 }
 
 #social-networks {
     display: inline-block;
+    
 }
 
 #social-networks>li {
     display: inline;
+    
+}
+
+#social-networks a {
+    text-decoration: none;
 }
 
 #social-networks i {
@@ -115,6 +122,7 @@ footer {
     padding: 5px;
     color: #3a3a3a;
     transition: color 0.3s ease-in-out;
+    text-decoration: none;
 }
 #social-networks i:hover {
     color: #0091ff; 
