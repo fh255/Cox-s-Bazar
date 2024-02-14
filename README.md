@@ -13,6 +13,7 @@ Furthermore, the project emphasizes connectivity through social media links in t
 In essence, the Cox's Bazar website is a testament to the beauty of the region, serving both as a promotional tool for tourism and a digital homage to the cultural and natural splendors of this Bangladeshi gem.
 
 <h2>Index</h2>
+
 - User Story 
 - Design
 - Features
@@ -22,3 +23,18 @@ In essence, the Cox's Bazar website is a testament to the beauty of the region, 
 - Credit
 
 ## User Story
+
+### Strategy
+- Reasons for this website:
+    The Cox's Bazar website serves as a comprehensive and engaging platform, promoting tourism, providing information, appreciating cultural heritage, and fostering a digital community interested in the wonders of Cox's Bazar, Bangladesh.
+- Reasons a user may visit the website:
+    The website caters to a diverse audience, including potential tourists, cultural enthusiasts, virtual explorers, and those seeking community engagement around the beauty and cultural richness of Cox's Bazar, Bangladesh.
+
+
+
+
+
+
+
+
+
