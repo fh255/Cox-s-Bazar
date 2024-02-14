@@ -1,39 +1,24 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center" > Cox's Baz </h1>
 
-Welcome,
+[View the  live project here](https://8000-fh255-coxsbazar-8bn0noh77se.ws-eu108.gitpod.io/)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+<h1> About the project </h1>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+The Cox's Bazar website is a digital initiative aimed at showcasing the natural beauty and cultural richness of Cox's Bazar, Bangladesh. This project serves as a virtual gateway for visitors to explore the scenic wonders of the region, featuring an extensive gallery of captivating photos capturing the essence of the longest natural sea beach globally. The website is thoughtfully structured with sections like Home, Photos, and Visit Us, offering a user-friendly experience for seamless navigation.
 
-## Codeanywhere Reminders
+The visual appeal of the site is enhanced by high-quality images portraying the breathtaking landscapes, serene seascapes, and cultural diversity of Cox's Bazar. Each photo serves as a window into the destination's unique charm, inviting potential visitors to discover the wonders that make Cox's Bazar a must-visit location.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Furthermore, the project emphasizes connectivity through social media links in the footer, enabling users to engage with Cox's Bazar content across various platforms. This strategic inclusion aims to foster a broader online community interested in and inspired by the beauty of Cox's Bazar.
 
-`python3 -m http.server`
+In essence, the Cox's Bazar website is a testament to the beauty of the region, serving both as a promotional tool for tourism and a digital homage to the cultural and natural splendors of this Bangladeshi gem.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+<h2>Index</h2>
+- User Story 
+- Design
+- Features
+- Technologies
+- Deployment
+- Testing
+- Credit
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+## User Story
