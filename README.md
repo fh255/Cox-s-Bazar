@@ -42,16 +42,14 @@ In essence, the Cox's Bazar website is a testament to the beauty of the region, 
 ### Visuals
 The primary image selection is deliberate, offering a soothing, bright, and vibrant appeal. The chosen photos share common color tones, aligning with the overall website style. This cohesive color palette aims to provide a visually calming experience without overwhelming the user, creating a harmonious and tranquil visual atmosphere.
 
-### Typography
 ### Color
-
 - This project employs a diverse color palette to enhance visual appeal and user experience. Black is strategically chosen for body text and headings, ensuring optimal contrast and readability against the white background.
 - Navigation links transform dynamically with a semi-transparent blue hue (rgba(22, 161, 235, 0.8)) upon hover, adding an interactive touch.
 - Dark Gray (#3a3a3a) takes center stage for descriptive text and social network icons, introducing a subtle contrast to maintain a cohesive design.
 - A vibrant Blue Accent (#0091ff) is elegantly applied to social network icons during hover events, contributing to a dynamic and responsive user interaction.
 - Dark Gray is consistently utilized for headings and paragraph text, fostering a harmonious reading experience across different sections of the project. This thoughtfully crafted color scheme not only prioritizes readability but also infuses the design with a sense of balance and aesthetic coherence.
 
-## Technologies Used
+### Typography
 This project embraces a combination of diverse font families to achieve a visually appealing and balanced typographic design.
 - Lato (Sans-serif): Selected for the body text, this sans-serif font ensures clarity and readability, providing a clean and modern aesthetic.
 - Tinos (Serif): Employed for h1 headings, Tinos adds a touch of sophistication and emphasis, complementing the overall design.
