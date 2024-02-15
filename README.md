@@ -1,6 +1,6 @@
 <h1 align="center" > Cox's Baz </h1>
 
-[View the  live project here](https://8000-fh255-coxsbazar-8bn0noh77se.ws-eu108.gitpod.io/)
+[View the  live project here](https://fh255.github.io/Cox-s-Bazar/)
 
 <h1> About the project </h1>
 
@@ -31,6 +31,49 @@ In essence, the Cox's Bazar website is a testament to the beauty of the region, 
     The Cox's Bazar website serves as a comprehensive and engaging platform, promoting tourism, providing information, appreciating cultural heritage, and fostering a digital community interested in the wonders of Cox's Bazar, Bangladesh.
 - Reasons a user may visit the website:
     The website caters to a diverse audience, including potential tourists, cultural enthusiasts, virtual explorers, and those seeking community engagement around the beauty and cultural richness of Cox's Bazar, Bangladesh.
+
+### Structure
+- Home section: With main image the title and short description about Coc's Bazar.
+- Photos section:
+- Visit Us section:
+
+## Design
+### Picture
+### Typography
+### Color
+
+## Technologies Used
+
+### Languages
+### Libraries and programs
+
+## Features
+- Call to action
+- Navigation
+- Home
+- Photos
+- Visit Us
+- Footer
+
+## Testing
+### Validators
+- html Validator
+- css Validator
+### Browsers
+
+
+## Deployment
+
+
+## Credits
+
+
+
+
+
+
+
+
 
 
 
