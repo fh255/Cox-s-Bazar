@@ -79,13 +79,22 @@ This project embraces a combination of diverse font families to achieve a visual
 
 - Photos
   In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (500px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
+  <img width="1251" alt="photos" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/4f443b51-f91b-40f7-8392-5941123ede3c">
+
 - Visit Us
+<img width="1275" alt="Visit us" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/a33758c3-c6b6-47e8-8139-2bf9d19a5f72">
+
 - Footer
+<img width="402" alt="Footer" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/1903691c-2c19-483b-bd96-83cd3b37ba6b">
 
 ## Testing
 ### Validators
-- html Validator
-- css Validator
+- [HTML Validator](https://validator.w3.org/):
+<img width="1212" alt="html" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/85231621-bb3a-4a56-9846-58815c48a1a8">
+
+- CSS Validator:
+<img width="1213" alt="CSS validator" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/8d787b17-ec7c-4075-901d-3c66c57161d8">
+
 ### Browsers
 
 
