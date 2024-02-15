@@ -81,29 +81,24 @@ This project embraces a combination of diverse font families to achieve a visual
    - [Beautifier](https://beautifier.io/): Used to enhance code organization for improved readability.
 
 ## Features
-- Navigation
-The navigation menu was designed to be centered on the page for screen sizes from 1200px and smaller. As the screen size increases beyond 1200px, the navigation bar seamlessly transforms into a horizontal layout, maintaining the same sections in the order of Home, Photos, and Visit Us.
+- Navigation: The navigation menu was designed to be centered on the page for screen sizes from 1200px and smaller. As the screen size increases beyond 1200px, the navigation bar seamlessly transforms into a horizontal layout, maintaining the same sections in the order of Home, Photos, and Visit Us.
 
 <img width="303" alt="Navigation" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/f6139fab-4298-4fd3-a269-0f16f13152c9">
 <img width="181" alt="navbar 2" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/7ffc599a-8bb3-4891-92fa-04eb3bc87a0c">
 
-- Home
-This section presents a main image with the central alignment of the main title, ensuring consistent display across all screen sizes. The main image is strategically chosen to instill a sense of mental peace in the user, encouraging prolonged engagement on the platform.
+- Home: This section presents a main image with the central alignment of the main title, ensuring consistent display across all screen sizes. The main image is strategically chosen to instill a sense of mental peace in the user, encouraging prolonged engagement on the platform.
 
 <img width="1264" alt="Home" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/f8fee602-7e2e-40dd-8a20-f25a338dff5a">
 
-- Photos
-In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (500px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
+- Photos: In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (500px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
 
 <img width="1251" alt="photos" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/4f443b51-f91b-40f7-8392-5941123ede3c">
 
-- Visit Us
-The heart of the page, the "Visit Us" section, is dedicated to highlighting compelling reasons to explore Cox's Bazar. Divided into key aspects such as Magnificent Scenery, Culinary Delights, Thrilling Adventures, and Enchanting Coral Reefs, each section is accompanied by stunning images and detailed descriptions.
+- Visit Us: The heart of the page, the "Visit Us" section, is dedicated to highlighting compelling reasons to explore Cox's Bazar. Divided into key aspects such as Magnificent Scenery, Culinary Delights, Thrilling Adventures, and Enchanting Coral Reefs, each section is accompanied by stunning images and detailed descriptions.
 
 <img width="1275" alt="Visit us" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/a33758c3-c6b6-47e8-8139-2bf9d19a5f72">
 
-- Footer
-In this section, you'll find social media icons accompanied by links set to open in new tabs, enhancing user experience. 
+- Footer: In this section, you'll find social media icons accompanied by links set to open in new tabs, enhancing user experience. 
 
 <img width="402" alt="Footer" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/1903691c-2c19-483b-bd96-83cd3b37ba6b">
 
