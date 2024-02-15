@@ -141,14 +141,15 @@ footer {
 #photos {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Set the grid to three columns */
-    gap: 0; /* Set the gap to 0 to remove the gap between columns */
+    gap: 5px; /* Set the gap to 5px between columns and rows */
     margin: 20px;
 }
 
 #photos img {
     width: 100%;
-    height: auto;
     transition: transform 0.3s ease-in-out;
+    height: 100%; /* Ensure images take the full height of their container */
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
 }
 
 #photos img:hover {
@@ -230,7 +231,7 @@ footer {
         width: 100%;
     }
     #photos {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        grid-template-columns: repeat(3, 1fr); 
     }
 }
 
@@ -258,7 +259,7 @@ footer {
         font-size: 20px;
     }
     #photos {
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -271,6 +272,6 @@ footer {
 
 @media screen and (max-width: 300px) {
     #photos {
-        grid-template-columns: 1fr; /* Adjust the columns for even smaller screens */
+        grid-template-columns: repeat(1, 1fr);
     }
 }
