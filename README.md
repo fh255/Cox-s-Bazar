@@ -11,6 +11,7 @@ The visual appeal of the site is enhanced by high-quality images portraying the 
 Furthermore, the project emphasizes connectivity through social media links in the footer, enabling users to engage with Cox's Bazar content across various platforms. This strategic inclusion aims to foster a broader online community interested in and inspired by the beauty of Cox's Bazar.
 
 In essence, the Cox's Bazar website is a testament to the beauty of the region, serving both as a promotional tool for tourism and a digital homage to the cultural and natural splendors of this Bangladeshi gem.
+
 <img width="938" alt="Screenshot 2024-02-14 at 09 13 35" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/4dccfbdc-1549-442d-b158-2d8d9679e8da">
 
 
@@ -69,39 +70,88 @@ This project embraces a combination of diverse font families to achieve a visual
 
 ## Features
 - Navigation
-  The navigation menu was designed to be centered on the page for screen sizes from 1200px and smaller. As the screen size increases beyond 1200px, the navigation bar seamlessly transforms into a horizontal layout, maintaining the same sections in the order of Home, Photos, and Visit Us.
+The navigation menu was designed to be centered on the page for screen sizes from 1200px and smaller. As the screen size increases beyond 1200px, the navigation bar seamlessly transforms into a horizontal layout, maintaining the same sections in the order of Home, Photos, and Visit Us.
+
 <img width="303" alt="Navigation" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/f6139fab-4298-4fd3-a269-0f16f13152c9">
 <img width="181" alt="navbar 2" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/7ffc599a-8bb3-4891-92fa-04eb3bc87a0c">
 
 - Home
-  This section presents a main image with the central alignment of the main title, ensuring consistent display across all screen sizes. The main image is strategically chosen to instill a sense of mental peace in the user, encouraging prolonged engagement on the platform.
-  <img width="1264" alt="Home" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/f8fee602-7e2e-40dd-8a20-f25a338dff5a">
+This section presents a main image with the central alignment of the main title, ensuring consistent display across all screen sizes. The main image is strategically chosen to instill a sense of mental peace in the user, encouraging prolonged engagement on the platform.
+
+<img width="1264" alt="Home" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/f8fee602-7e2e-40dd-8a20-f25a338dff5a">
 
 - Photos
-  In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (500px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
-  <img width="1251" alt="photos" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/4f443b51-f91b-40f7-8392-5941123ede3c">
+In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (500px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
+
+<img width="1251" alt="photos" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/4f443b51-f91b-40f7-8392-5941123ede3c">
 
 - Visit Us
+The heart of the page, the "Visit Us" section, is dedicated to highlighting compelling reasons to explore Cox's Bazar. Divided into key aspects such as Magnificent Scenery, Culinary Delights, Thrilling Adventures, and Enchanting Coral Reefs, each section is accompanied by stunning images and detailed descriptions.
+
 <img width="1275" alt="Visit us" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/a33758c3-c6b6-47e8-8139-2bf9d19a5f72">
 
 - Footer
+In this section, you'll find social media icons accompanied by links set to open in new tabs, enhancing user experience. 
+
 <img width="402" alt="Footer" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/1903691c-2c19-483b-bd96-83cd3b37ba6b">
 
 ## Testing
 ### Validators
-- [HTML Validator](https://validator.w3.org/):
+- [HTML Validator](https://validator.w3.org/): No error detected. 
+
 <img width="1212" alt="html" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/85231621-bb3a-4a56-9846-58815c48a1a8">
 
-- CSS Validator:
+- [CSS Validator](https://jigsaw.w3.org/css-validator/): No errors were detected in the code; however, a warning was issued, stating: "Imported style sheets are not checked in direct input and file upload modes." This warning specifically pertains to the fonts imported from Google Fonts. It is worth noting that this type of warning may not affect the functionality of the webpage but is rather an advisory message related to the validation process.
+
 <img width="1213" alt="CSS validator" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/8d787b17-ec7c-4075-901d-3c66c57161d8">
 
 ### Browsers
+I conducted cross-browser testing on Google Chrome, Mozilla Firefox, and Safari, with Google Chrome serving as the primary testing browser. The appearance and presentation of the website remained consistent across all browsers, indicating a uniform and reliable user experience.
 
+### Lighthouse
+I used Lighthouse for testing: Performance, Best Practices, Accessibility, and SEO.
+<img width="439" alt="Lighthouse" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/ed9a56c9-8b38-4881-928e-49ac5192aa72">
 
 ## Deployment
+### Deployment Process for This Site:
+To deploy this website, follow these steps in the GitHub repository:
+- Navigate to the repository on GitHub.
+- In the repository, locate and click on the "Settings" tab.
+- Within the left-side menu, find and click on "Code and Automation."
+- Select the "Pages" option from the submenu.
+- In the GitHub Pages section, choose the Main Branch from the dropdown menu.
+- Optionally, select a specific folder from the subsequent dropdown menu if needed.
+- Save your changes.
+- The website will be automatically published, and you can access it through the provided GitHub Pages URL.
 
+### Forking the Github repository
+By initiating a GitHub Repository fork, you can duplicate the original repository in your personal GitHub account. This allows you to review or implement changes without impacting the original repository.
+- Navigate to the [GitHub repository](https://github.com/fh255/Cox-s-Bazar) for the website.
+- Located at the top of the Repository, you will find a "Fork" button.
+- You should now possess a fresh copy of the initial repository within your own GitHub account.
 
-## Credits
+### Cloning the github repository
+- Open the GitHub repository you want to clone and click on the green "Code" button.
+- Copy the repository URL provided (either HTTPS or SSH).
+- Launch the Git Bash terminal.
+- Navigate to the desired directory where you intend to store the cloned repository.
+- Enter the command `git clone `, and then paste the previously copied URL. Press Enter to initiate the cloning process.
+- To sync any modifications made in the local clone with the repository, utilize the subsequent steps.
+```
+a. Revise the code as necessary.
+b. Access the terminal and execute git add . (or specify file_name).
+c. Enter git commit -m "concise description of the modification".
+d. Execute git push to upload the changes. 
+```
+
+## Credit
+- I acquired knowledge of HTML & CSS codes from diverse sources such as W3Schools, MDN Web Docs and TutorialsPoint.
+- The idea for the Hangman Game's model originated from the Python for Beginners source.
+- Gratitude to my mentor **Brian Macharia** for providing consistent support and valuable feedback.
+-  Appreciation also extends to the readily available tutor assistance, accessible at any working hour.
+
+## Acknowledgments
+As part of my journey with [Code Institute](https://learn.codeinstitute.net/dashboard), I developed this game as my third project.
 
 
 
