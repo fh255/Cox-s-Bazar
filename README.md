@@ -11,6 +11,8 @@ The visual appeal of the site is enhanced by high-quality images portraying the 
 Furthermore, the project emphasizes connectivity through social media links in the footer, enabling users to engage with Cox's Bazar content across various platforms. This strategic inclusion aims to foster a broader online community interested in and inspired by the beauty of Cox's Bazar.
 
 In essence, the Cox's Bazar website is a testament to the beauty of the region, serving both as a promotional tool for tourism and a digital homage to the cultural and natural splendors of this Bangladeshi gem.
+<img width="938" alt="Screenshot 2024-02-14 at 09 13 35" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/4dccfbdc-1549-442d-b158-2d8d9679e8da">
+
 
 <h2>Index</h2>
 
