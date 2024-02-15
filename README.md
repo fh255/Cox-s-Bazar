@@ -78,7 +78,7 @@ This project embraces a combination of diverse font families to achieve a visual
   <img width="1264" alt="Home" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/f8fee602-7e2e-40dd-8a20-f25a338dff5a">
 
 - Photos
-  In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (640px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
+  In this section, 9 photos are thoughtfully arranged to adapt to different devices: displayed in a single column for smaller screens (from 300px), arranged into two columns for medium devices (500px), and expanded to three columns for wider screens (from 1270px). This responsive design ensures an optimal viewing experience across various screen sizes.
 - Visit Us
 - Footer
 
