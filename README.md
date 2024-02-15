@@ -1,4 +1,4 @@
-<h1 align="center" > Cox's Baz </h1>
+<h1 align="center" > Cox's Bazar </h1>
 
 [View the  live project here](https://fh255.github.io/Cox-s-Bazar/)
 
