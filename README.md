@@ -17,13 +17,25 @@ In essence, the Cox's Bazar website is a testament to the beauty of the region, 
 
 <h2>Index</h2>
 
-- User Story 
+- User Story
+   - Strategy
+   - Structure
 - Design
-- Features
+   - Visuals
+   - Colors
+   - Typography
 - Technologies
-- Deployment
+- Features
 - Testing
+   - Validator
+   - Browser
+   - Lighthouse
+- Deployment
+   - Deployment Process
+   - Forking the Github repository
+   - Cloning the Github repository
 - Credit
+- Acknowledgments
 
 ## User Story
 
@@ -113,7 +125,7 @@ I used Lighthouse for testing: Performance, Best Practices, Accessibility, and S
 <img width="439" alt="Lighthouse" src="https://github.com/fh255/Cox-s-Bazar/assets/34744096/ed9a56c9-8b38-4881-928e-49ac5192aa72">
 
 ## Deployment
-### Deployment Process for This Site:
+### Deployment Process:
 To deploy this website, follow these steps in the GitHub repository:
 - Navigate to the repository on GitHub.
 - In the repository, locate and click on the "Settings" tab.
